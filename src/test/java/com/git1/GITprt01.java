@@ -17,5 +17,21 @@ public class GITprt01 {
 
 	}
 	
+	
+	private void TamilNadu() {
+		System.out.println("01");
+
+	}
+	
+	private void Andhra() {
+		System.out.println("02");
+
+	}
+	
+	private void Kerala() {
+		System.out.println("03");
+
+	}
+	
 
 }
