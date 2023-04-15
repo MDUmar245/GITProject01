@@ -18,4 +18,18 @@ public class GITprt01 {
 	}
 	
 
+	private void India01() {
+		System.out.println("IND01");
+
+	}
+	
+	private void India02() {
+		System.out.println("IND02");
+
+	}
+	
+	private void India03() {
+		System.out.println("IND03");
+
+	}
 }
